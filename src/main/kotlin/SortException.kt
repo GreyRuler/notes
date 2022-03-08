@@ -1,0 +1,1 @@
+class SortException(message: String): RuntimeException(message)
